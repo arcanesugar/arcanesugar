@@ -1,1 +1,1 @@
-[click] (https://github.com/arcanesugar)
+[click](https://github.com/arcanesugar)
